@@ -1,0 +1,6 @@
+backend/.env
+frontend/.env
+*.db
+*.sqlite
+__pycache__/
+*.pyc
